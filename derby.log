@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 12 14:46:42 CET 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0175-bcb5-581b-000001ada5f8 
+on database directory memory:C:\Users\gokul\javabrainsspring\springbrainutub\springbrainutub\56abd239-4805-4ba8-86ca-13a07aecc3c3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2626b418 
+Loaded from file:/C:/Users/gokul/.m2/repository/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=14.0.2+12-46
+user.dir=C:\Users\gokul\javabrainsspring\springbrainutub\springbrainutub
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
